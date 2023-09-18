@@ -1,5 +1,7 @@
 # Disney Clone Frontend
 
+checkout:https://mydisney-clone-v1.netlify.app/
+
 Welcome to the Disney Clone Frontend project! This is a minor project aimed at showcasing frontend development skills by replicating the Disney website. 
 
 Please note that this project is for demonstration purposes only and does not include any backend functionality.
@@ -22,8 +24,6 @@ Please note that this project is for demonstration purposes only and does not in
 4. Start the development server using `npm run dev` or `yarn dev`.
 5. Access the project in your web browser at `http://localhost:3000`.
 
-## Mobile Responsiveness
-Please note that this project is designed for desktop use only and does not include mobile responsiveness features.
 
 ## Contribution
 Contributions and feedback are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
